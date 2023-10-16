@@ -1,4 +1,4 @@
-./bin
-./obj
-/bin
-/obj
+Catalog/bin/
+Catalog/obj/
+Catalog/appsettings.Development.json
+Catalog/appsettings.json
